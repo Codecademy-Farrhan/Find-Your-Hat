@@ -1,4 +1,6 @@
-Find Your Hat Game
+**Find Your Hat Game**
+<br>
+<br>
 Find Your Hat is a terminal-based game where players navigate a field to find their hat while avoiding holes. The field is displayed as a grid with distinct characters representing the player, the hat, the holes, and the path.
 
 Game Characters:
