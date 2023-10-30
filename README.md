@@ -47,3 +47,11 @@ Follow on-screen instructions to navigate the field.
 Customization:
 You can adjust the field's size and the percentage of holes by modifying the parameters in the Field.generateField method.
 
+What did you like about this project?
+I liked how the project allowed me to build a game on the terminal. It reminds me of the roguelike text based games I used to play and hack.
+
+What did you struggle with in this project?
+I struggled with connecting the concept of an array within an array to print out the field initially. Eventually I did understand it as each line is an array within the first element, second and so forth. I wouldn't have thought of this solution myself to generate the field.
+
+What would make your experience with this assessment better?
+Perhaps more practice or a deeper understanding of all the modules leading up to this assessment within Codecademy's Front End Engineering course leading up to this project.
